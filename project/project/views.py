@@ -6,4 +6,4 @@ def index(request):
 
 
 def login(request):
-    return render(request,'templates/grafana.html')
+    return render(request,'templates/login.html')
